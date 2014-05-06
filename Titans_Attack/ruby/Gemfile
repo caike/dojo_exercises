@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+ruby '2.0.0'
+
+gem 'state_machine', '1.2.0'
+gem 'timecop', '0.7.1'
+gem 'chronic', '0.10.2'
+gem 'rspec', '2.14.1'
